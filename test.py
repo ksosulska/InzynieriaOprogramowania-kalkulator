@@ -3,7 +3,7 @@ def hello(name):
 	return "Hello +str(name)
 
 def pomnoz(a,b)
-	resturn a/b
+	return a*b
 
 def odejmij(a,b):
 	wynik = float(a) - float(b)
