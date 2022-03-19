@@ -1,5 +1,4 @@
-Autor: K Sosulska
-Data: 19.03.2022r. 
+Autor: K Sosulska 
 
-To jest repozytorium testowe z IO.
+To jest repozytorium testowe z IO,
 Będą tutaj pierwsze próby dotyczące commitów i branchy.
