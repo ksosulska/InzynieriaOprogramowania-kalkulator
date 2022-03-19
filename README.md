@@ -1,4 +1,7 @@
-Autor: K Sosulska 
 
-To jest repozytorium testowe z IO,
-Będą tutaj pierwsze próby dotyczące commitów i branchy.
+Autor: K Sosulska
+
+
+To jest repozytorium z kalkulator z IO,
+Znajdują się tutaj pierwsze próby dotyczące commitów i branchy, a także funkcje tworzące kalkulator.
+
