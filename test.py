@@ -2,7 +2,9 @@
 def hello(name):
 	return "Hello +str(name)
 
-def pomnoz(a,b)
+#Panie Kasiu to jest dzielenie
+	
+def mnozenie(a,b)
 	return a*b
 
 def odejmij(a,b):
